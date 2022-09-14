@@ -6,3 +6,9 @@ data + ' something' //3,990,510 ops/s
 
 `${data} something` //2,769,030 ops/s
 ```
+
+* [String trim empty]
+
+https://jsben.ch/fPiaL
+
+<img width="593" alt="image" src="https://user-images.githubusercontent.com/20707343/190179001-10fc7271-a627-4277-b320-49a131b5c8a0.png">
